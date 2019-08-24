@@ -10,7 +10,7 @@ Sotardust 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.sotardust.cn/hello-solo)
+* [世界，你好！](http://sotardust.cn/hello-solo)
 
 
 
