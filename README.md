@@ -10,7 +10,6 @@ Sotardust 的个人博客
 
 ### 最新
 
-* [ThreadPoolExecutor源码分析](https://www.sotardust.cn/articles/2019/09/28/1569638774849.html)
 * [Android多线程之ThreadPoolExecutor与四大线程池](https://www.sotardust.cn/articles/2019/09/26/1569508786853.html)
 * [Apk打包过程](https://www.sotardust.cn/articles/2019/09/12/1568269343673.html)
 * [Java 进程与线程](https://www.sotardust.cn/articles/2019/09/10/1568102554627.html)
