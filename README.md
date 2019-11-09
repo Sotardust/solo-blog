@@ -10,6 +10,7 @@ Sotardust 的个人博客
 
 ### 最新
 
+* [Java集合系列之LinkedList源码分析](https://www.sotardust.cn/articles/2019/11/08/1573207216254.html)
 * [Java集合系列之ArrayList源码分析](https://www.sotardust.cn/articles/2019/10/24/1571910917492.html)
 * [Android多线程之ThreadPoolExecutor与四大线程池](https://www.sotardust.cn/articles/2019/09/26/1569508786853.html)
 * [Java集合系列之HashMap源码分析](https://www.sotardust.cn/articles/2019/09/16/1568600871079.html)
