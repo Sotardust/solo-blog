@@ -10,22 +10,22 @@ Sotardust 的个人博客
 
 ### 最新
 
-* [Java集合系列之LinkedList源码分析](https://www.sotardust.cn/solo/articles/2019/11/08/1573207216254.html)
-* [Java集合系列之ArrayList源码分析](https://www.sotardust.cn/solo/articles/2019/10/24/1571910917492.html)
-* [Android多线程之ThreadPoolExecutor与四大线程池](https://www.sotardust.cn/solo/articles/2019/09/26/1569508786853.html)
-* [Java集合系列之HashMap源码分析](https://www.sotardust.cn/solo/articles/2019/09/16/1568600871079.html)
-* [Apk打包过程](https://www.sotardust.cn/solo/articles/2019/09/12/1568269343673.html)
-* [Java 进程与线程](https://www.sotardust.cn/solo/articles/2019/09/10/1568102554627.html)
-* [Android系统架构](https://www.sotardust.cn/solo/articles/2019/09/10/1568099505282.html)
-* [设计模式的六大原则](https://www.sotardust.cn/solo/articles/2019/09/05/1567675000889.html)
-* [我在 GitHub 上的开源项目](https://www.sotardust.cn/solo/my-github-repos)
-* [自定义View绘制过程源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419491078.html)
-* [ViewGroup绘制过程源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419461969.html)
-* [ThreadLocal 源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419434677.html)
-* [Handler消息机制源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419402891.html)
-* [Android 事件分发机制源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419369662.html)
-* [Activity启动过程源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419276652.html)
-* [Activity中View创建到添加在Window窗口上到显示的过程源码分析](https://www.sotardust.cn/solo/articles/2019/09/02/1567419224191.html)
+* [Java集合系列之LinkedList源码分析](https://www.sotardust.cn/articles/2019/11/08/1573207216254.html)
+* [Java集合系列之ArrayList源码分析](https://www.sotardust.cn/articles/2019/10/24/1571910917492.html)
+* [Android多线程之ThreadPoolExecutor与四大线程池](https://www.sotardust.cn/articles/2019/09/26/1569508786853.html)
+* [Java集合系列之HashMap源码分析](https://www.sotardust.cn/articles/2019/09/16/1568600871079.html)
+* [Apk打包过程](https://www.sotardust.cn/articles/2019/09/12/1568269343673.html)
+* [Java 进程与线程](https://www.sotardust.cn/articles/2019/09/10/1568102554627.html)
+* [Android系统架构](https://www.sotardust.cn/articles/2019/09/10/1568099505282.html)
+* [设计模式的六大原则](https://www.sotardust.cn/articles/2019/09/05/1567675000889.html)
+* [我在 GitHub 上的开源项目](https://www.sotardust.cn/my-github-repos)
+* [自定义View绘制过程源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419491078.html)
+* [ViewGroup绘制过程源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419461969.html)
+* [ThreadLocal 源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419434677.html)
+* [Handler消息机制源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419402891.html)
+* [Android 事件分发机制源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419369662.html)
+* [Activity启动过程源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419276652.html)
+* [Activity中View创建到添加在Window窗口上到显示的过程源码分析](https://www.sotardust.cn/articles/2019/09/02/1567419224191.html)
 
 
 
